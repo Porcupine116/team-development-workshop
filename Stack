@@ -1,7 +1,12 @@
-Бэкенд: FastAPI
-Фронтенд: React.js(Jinja2)
-База данных: PostgreSQL + SQLAlchemy/asyncpg
-Кеширование: Redis + aioredis
-Поиск: Elasticsearch (elasticsearch-py)
-Асинхронность: asyncio/aiohttp для API запросов
-Деплой: Docker + Gunicorn/Uvicorn
+• Backend: Python (Fast API)
+ • Frontend: HTML + CSS (Bootstrap) + JavaScript
+ • БД: PostgreSQL 
+ • Интеграции:
+ • HeadHunter API
+ • Авторизация/регистрация: сессии + JWT
+ • Дополнительные функции:
+ • Личный кабинет пользователя
+ • Хранение резюме
+ • Интерактивная карта (Leaflet.js + OpenStreetMap)
+ • Уведомления о новых вакансиях по фильтрам
+ • Тёмная тема
