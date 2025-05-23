@@ -1,0 +1,16 @@
+jobfinder/
+├── backend/
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   ├── auth.py
+│   ├── jobs_api.py
+│   ├── resume.py
+│   ├── templates/
+│   └── static/
+├── frontend/
+│   ├── templates/
+│   └── static/
+├── requirements.txt
+├── README.md
+└── .env
